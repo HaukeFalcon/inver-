@@ -1,3 +1,7 @@
+pip.main(['install', 'plotly_express'])
+pip.main(["install","openpyxl"])
+
+
 from datetime import datetime, timedelta
 import streamlit as st
 import pandas as pd
@@ -6,8 +10,7 @@ import pydeck as pdk
 import plotly.express as px
 import pip 
 
-pip.main(['install', 'plotly_express'])
-pip.main(["install","openpyxl"])
+
 
 
 def reemplazos(v):
