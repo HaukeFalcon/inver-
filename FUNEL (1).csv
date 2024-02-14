@@ -1,9 +1,11 @@
-,PASO,FRECUENCIA
-7,Home ACTIVACASH,390
-6,Parametriza tu oferta de crédito,145
-5,Validacón SMS,68
-4,Confirma tu domicilio,63
-3,Carga de documentos,62
-2,Edita tu solicitud de crédito.Ingresa tu contraseña para CMV Finanzas y referencia familiar,54
-1,Firma de contratos,53
-0,Mesa de control,10
+,PASO,VALOR
+0,Home ACTIVACASH,345
+1,Parametriza tu oferta de crédito,121
+2,Validacón SMS,68
+3,Confirma tu domicilio,63
+4,Carga de documentos,62
+5,Ingresa tu correo electrónico,54
+6,Edita tu solicitud de crédito.Ingresa tu contraseña para CMV Finanzas y referencia familiar,54
+7,Confirma tu crédito,53
+8,Firma de contratos,53
+9,Mesa de control,10
